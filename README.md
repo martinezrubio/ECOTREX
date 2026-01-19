@@ -17,9 +17,9 @@ The resulting framework allows estimating diet traits for extinct species while 
 - `docs/`: methodological notes and supplementary documentation
 
 ## Data
-Raw datasets include global trait databases for extant and extinct birds (e.g. AVONET, AVOTREX) and taxonomic bridges linking both groups.  
-Processed datasets include XXXX
-Predicted datasets include imputed diet composition for extinct bird species, together with associated uncertainty estimates.
+- Raw datasets include global trait databases for extant and extinct birds (e.g. AVONET, AVOTREX) and taxonomic bridges linking both groups.  
+- Processed datasets include XXXX
+- Predicted datasets include imputed diet composition for extinct bird species, together with associated uncertainty estimates.
 
 ## Reproducibility
 All analyses are implemented in Phyton.  
